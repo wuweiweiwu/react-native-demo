@@ -21,4 +21,5 @@
 //     justifyContent: 'center',
 //   },
 // });
-export default from './storybook';
+import storybook from './storybook';
+export default storybook;

@@ -3,17 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-native-scripts": "1.13.1",
-    "jest-expo": "26.0.0",
-    "react-test-renderer": "16.3.0-alpha.1",
-    "@storybook/react-native": "^3.4.2",
     "@storybook/addon-actions": "^3.4.2",
     "@storybook/addon-links": "^3.4.2",
     "@storybook/addons": "^3.4.2",
+    "@storybook/react-native": "^3.4.2",
     "babel-core": "^6.26.0",
     "babel-runtime": "^6.26.0",
+    "jest-expo": "26.0.0",
+    "prop-types": "^15.6.1",
     "react-dom": "16.3.0-alpha.1",
-    "prop-types": "^15.6.1"
+    "react-native-scripts": "1.13.1",
+    "react-test-renderer": "16.3.0-alpha.1"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
@@ -30,6 +30,11 @@
   "dependencies": {
     "expo": "^26.0.0",
     "react": "16.3.0-alpha.1",
-    "react-native": "0.54.0"
+    "react-native": "0.54.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-hamburger": "^0.0.2",
+    "react-native-maps": "^0.21.0",
+    "react-native-progress": "^3.4.0",
+    "react-native-swipe-cards": "^0.1.1"
   }
 }

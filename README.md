@@ -4,7 +4,7 @@ Demo of some react-native components :monkey:
 ### installing
 
 ```bash
-# install xcode
+# install xcode and xcode developer tools
 xcode-select --install
 ```
 
